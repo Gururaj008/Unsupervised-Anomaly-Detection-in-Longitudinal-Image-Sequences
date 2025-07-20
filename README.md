@@ -1,6 +1,6 @@
 # Spatiotemporal Diffusion Anomaly Detection
 
-An end‑to‑end, unsupervised pipeline for detecting anomalies in longitudinal image sequences using a spatiotemporal diffusion model. This project was developed to showcase advanced deep‑learning techniques for PhD applications in domains such as medical imaging and industrial monitoring.
+An end‑to‑end, unsupervised pipeline for detecting anomalies in longitudinal image sequences using a spatiotemporal diffusion model. 
 
 ---
 
